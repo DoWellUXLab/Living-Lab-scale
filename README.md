@@ -24,7 +24,7 @@ To access the LivingLab Scales API, you need to include your API key in the head
 
 ## Error Handling
 
-The API follows standard HTTP status codes to indicate the success or failure of each request. If an error occurs, you will receive an appropriate status code along with a descriptive error message. Please refer to the [API Documentation](https://documenter.getpostman.com/view/27724787/2s93mBvJ51#29647737-190c-4990-a117-21369355150c) for detailed information on error handling and common error codes.
+The API follows standard HTTP status codes to indicate the success or failure of each request. If an error occurs, you will receive an appropriate status code along with a descriptive error message. Please refer to the [API Documentation](https://documenter.getpostman.com/view/24860974/2s93sZ5Dmm) for detailed information on error handling and common error codes.
 
 ## Data Privacy and Security
 
